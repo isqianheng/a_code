@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+<sys-header>
+<data name="SYS_HEAD">
+<struct>
+<data name="SOURCE_TYPE">
+<field length="2" scale="0" type="string">MT</field>
+</data>
+<data name="CURRENT_NUM">
+<field length="2" scale="0" type="string">10</field>
+</data>
+<data name="USER_ID">
+<field length="11" scale="0" type="string">chenyuguang</field>
+</data>
+<data name="MESSAGE_TYPE">
+<field length="4" scale="0" type="string">5000</field>
+</data>
+<data name="PGUP_OR_PGDN">
+<field length="2" scale="0" type="string">10</field>
+</data>
+<data name="MESSAGE_CODE">
+<field length="4" scale="0" type="string">4505</field>
+</data>
+<data name="SERVICE_CODE">
+<field length="6" scale="0" type="string">SVR_TC</field>
+</data>
+<data name="TOTAL_NUM">
+<field length="2" scale="0" type="string">10</field>
+</data>
+<data name="TRAN_DATE">
+<field length="8" scale="0" type="string">20180727</field>
+</data>
+<data name="SEQ_NO">
+<field length="17" scale="0" type="string">20170215173610868</field>
+</data>
+<data name="TRAN_MODE">
+<field length="6" scale="0" type="string">ONLINE</field>
+</data>
+</struct>
+</data>
+</sys-header>
+<app-header>
+<data name="APP_HEAD">
+<struct>
+<data name="TOTAL_FLAG">
+<field length="1" scale="0" type="string">O</field>
+</data>
+<data name="CURRENT_NUM">
+<field length="1" scale="0" type="string">0</field>
+</data>
+<data name="TOTAL_NUM">
+<field length="2" scale="0" type="string">10</field>
+</data>
+</struct>
+</data>
+</app-header>
+<local-header>
+<data name="LOCAL_HEAD">
+<struct/>
+</data>
+</local-header>
+<body>
+<data name="SYS_TRACE_AUDIT_NUM">
+<field length="0" scale="0" type="string"/>
+</data>
+<data name="PRIMARY_ACCT_NUM">
+<field length="0" scale="0" type="string"/>
+</data>
+<data name="WORK_DATE1">
+<field length="2" scale="0" type="string">20150101</field>
+</data>
+<data name="WORK_DATE2">
+<field length="2" scale="0" type="string">20190101</field>
+</data>
+</body>
+</service>

@@ -1,0 +1,275 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+	<SYS_HEAD>
+		<SvcId>040020029</SvcId>
+		<SvcScnId>01</SvcScnId>
+		<CnsmSysId>2049</CnsmSysId>
+		<ChnlType>WL</ChnlType>
+		<SrcSysId>2046</SrcSysId>
+		<CnsmSysSeqNo>TSFS180414000000105832</CnsmSysSeqNo>
+		<SrcSysSeqNo>TSFS180414000000105832</SrcSysSeqNo>
+		<Mac />
+		<MacOrgId />
+		<TranMode>ONLINE</TranMode>
+		<TranDate>20180414</TranDate>
+		<TranTime>162722096</TranTime>
+		<TmnlNo />
+		<SrcSySysnlNo />
+		<CnsmSysSvrId />
+		<SrcSysSvrId />
+	</SYS_HEAD>
+	<APP_HEAD>
+		<TellerId />
+		<BranchId />
+		<TlrPswd />
+		<TlrLvl />
+		<TlrType />
+		<ChkFlag />
+		<AuthFlag />
+		<AuthTlrId />
+		<AuthTlrPswd />
+		<AuthBrchId />
+	</APP_HEAD>
+	<BODY>
+		<CardNo></CardNo>
+		<CardGroup>HF</CardGroup>
+		<TranChnlTp>WL</TranChnlTp>
+		<PayOrg>CFT</PayOrg>
+		<TranCode>8583</TranCode>
+		<TSFSTranDt>20180414</TSFSTranDt>
+		<TSFSTranTm>162713</TSFSTranTm>
+		<RfsRsnCd>000000</RfsRsnCd>
+		<CardSt />
+		<AcctSt></AcctSt>
+		<AcctStDt></AcctStDt>
+		<RpymtMode />
+		<DdcCrdNo />
+		<OverdueAmt>0.00</OverdueAmt>
+		<OdPrdNum />
+		<LstRpymtDt />
+		<LstRpymtAmt>0.00</LstRpymtAmt>
+		<AvlbLmt>0.00</AvlbLmt>
+		<StmtAmt>0.00</StmtAmt>
+		<MinRpymtAmt>0.00</MinRpymtAmt>
+		<NewStmtAmt>0.00</NewStmtAmt>
+		<FixLmt>0.00</FixLmt>
+		<TempLmt>0.00</TempLmt>
+		<TempLmtEfctvDt />
+		<TempLmtExprtDt />
+		<EncshLmt>0.00</EncshLmt>
+		<EncshAvlbLmt>0.00</EncshAvlbLmt>
+		<LmtAdjDt />
+		<LmtAdjRsnCd />
+		<CnsmPswdEstbFlg />
+		<MaxCardLvl />
+		<PymtLvl />
+		<InstlRmnPrcpl>0.00</InstlRmnPrcpl>
+		<PrimCardNo />
+		<Name></Name>
+		<Sex />
+		<ClntEnNm></ClntEnNm>
+		<Nationality />
+		<MarriageSt></MarriageSt>
+		<IdType></IdType>
+		<IdCode></IdCode>
+		<IdEndDt />
+		<IssuOfcInf />
+		<Birthday></Birthday>
+		<ClntTpCd />
+		<MobileNo></MobileNo>
+		<StmtDay></StmtDay>
+		<RpymtDate></RpymtDate>
+		<PrmtrCoCd></PrmtrCoCd>
+		<EndDate></EndDate>
+		<IssuCrdRsnCd />
+		<IssuCrdDt></IssuCrdDt>
+		<CrdPrdcId />
+		<IssuMode />
+		<ActvDate></ActvDate>
+		<MsgType></MsgType>
+		<RvrsFlg></RvrsFlg>
+		<TranType></TranType>
+		<OutAcctTp />
+		<InAcctTp />
+		<TranAmt>60000000</TranAmt>
+		<ActTranAmt />
+		<DdctAmt></DdctAmt>
+		<ActDdctAmt />
+		<TrnstTime>0413162635</TrnstTime>
+		<TranStmTmStmp>2018-04-13T16:26:35</TranStmTmStmp>
+		<StmTranAudtNo>002265</StmTranAudtNo>
+		<TranDtTm />
+		<ValidTerm></ValidTerm>
+		<MrchTp></MrchTp>
+		<CntyCode></CntyCode>
+		<PANInptMode />
+		<PsCrdFlg />
+		<PINInptMode />
+		<POSCdtnCd></POSCdtnCd>
+		<AgncInstIdCd></AgncInstIdCd>
+		<RgnCode />
+		<TrnsBrchId></TrnsBrchId>
+		<CUPSOvrsFlg />
+		<SrchRefrNo></SrchRefrNo>
+		<AuthNo></AuthNo>
+		<RspCode></RspCode>
+		<TranTmnlNo></TranTmnlNo>
+		<MrchNo></MrchNo>
+		<MrchName></MrchName>
+		<SmNmTfrFlg />
+		<RlTmDlyInAcctFlg />
+		<TrstBsnsUsrNoTp />
+		<TrstBsnsUsrNo />
+		<TrstBsnsRgnCd />
+		<TrstBsnsAdlRgnCd />
+		<TrstBsnsPayMdFlg />
+		<TrstBsnsPayMdTp />
+		<TrstBsnsPayMdCd />
+		<TrstBsnsTrstRltnTrm />
+		<TrstBsnsMaxAmt />
+		<TrstBsnsMinAmt />
+		<TrstBsnsTmPrd />
+		<RltvBsnsFlg />
+		<SlfTmnlAcptBrchId />
+		<SlfTmnlNo />
+		<SlfTmnlMrchNo />
+		<DlgtOrigTxnMsgTp />
+		<DlgtOrigTxnPcsCd />
+		<DlgtOrigPOSCdtnCd />
+		<DlgtVIPCrdFlg />
+		<FailRsn />
+		<DlgtIssuOrgCd />
+		<TranCcy></TranCcy>
+		<AcctCcy></AcctCcy>
+		<ActBal></ActBal>
+		<BookBalAcctTp />
+		<BookBalTp />
+		<BookBalCcyCd />
+		<BookBalDir />
+		<BookBal />
+		<AvlbBalAcctTp />
+		<AvlbBalTp />
+		<AvlbBalCcyCd />
+		<AvlbBalDir />
+		<AvlbBal />
+		<MsgRsnCd />
+		<UsrdefAcctUsrTp />
+		<TmnlEntrCapb />
+		<ICCrdCdtnCd />
+		<TmnlType></TmnlType>
+		<UsrdefPswdFlg />
+		<TCCrdVerfRlbltFlg />
+		<ElctrCmrcFlg />
+		<IntrctvMd />
+		<TranSpsrMd />
+		<TranMdm />
+		<ICCrdAppTp />
+		<CVVVrfRslt />
+		<CVV2VrfRslt />
+		<TokenVerfMsgFlg />
+		<TokenPayCd />
+		<TokenVldDt />
+		<TokenCrdtLvl />
+		<TokenScnID />
+		<TokenID />
+		<OrigMsgTp />
+		<OrigSysTrcNo />
+		<OrigSysTmStmp />
+		<OrigAcqrInstId />
+		<OrigFrwdInstId />
+		<OutAcctNo></OutAcctNo>
+		<InAcctNo></InAcctNo>
+		<TxnPswdChckFlg />
+		<BookMdfTm></BookMdfTm>
+		<NewMblNo></NewMblNo>
+		<OrigMblNo></OrigMblNo>
+		<ChangeTime />
+		<ChngType />
+		<CnctTelNo></CnctTelNo>
+		<MarriageSt1></MarriageSt1>
+		<CompanyNm></CompanyNm>
+		<CoDept></CoDept>
+		<Duty></Duty>
+		<CompanyTelNo></CompanyTelNo>
+		<CoTelExtNo></CoTelExtNo>
+		<HmTelAreaNo></HmTelAreaNo>
+		<HomeTelNo></HomeTelNo>
+		<StmtAdrTp></StmtAdrTp>
+		<HomeAdr></HomeAdr>
+		<HomePstcd></HomePstcd>
+		<CompanyAdr></CompanyAdr>
+		<CoPstcd></CoPstcd>
+		<RgstAddr></RgstAddr>
+		<RgstAdrPstcd></RgstAdrPstcd>
+		<CrspName></CrspName>
+		<CrspRltnCd></CrspRltnCd>
+		<CrspMblNo></CrspMblNo>
+		<CrspTelAreaNo1></CrspTelAreaNo1>
+		<TelNo></TelNo>
+		<CrspTelExtNo></CrspTelExtNo>
+		<OprtType />
+		<EqpmtFing></EqpmtFing>
+		<IP></IP>
+		<MACAdr></MACAdr>
+		<F2FTranFlg></F2FTranFlg>
+		<ClntOrdrNo />
+		<ClntBnkAcctNm />
+		<ClntIdTp />
+		<ClntIdCd />
+		<ClntMblNo />
+		<ClntCrdVldTerm />
+		<ClntHmTelNo />
+		<ClntBrthdy />
+		<ClntEml />
+		<TranRspCd />
+		<AgrmntNo>Z2004944000010201804130000014530</AgrmntNo>
+		<PayAcctOrgId></PayAcctOrgId>
+		<PayType></PayType>
+		<PymtBnkSeqNo></PymtBnkSeqNo>
+		<PyrTmnlTp></PyrTmnlTp>
+		<PyrTmnlNo></PyrTmnlNo>
+		<RcptPymtFlg>1</RcptPymtFlg>
+		<PyeAcctOrgId>C1031537000883</PyeAcctOrgId>
+		<PyeAcctNm></PyeAcctNm>
+		<PyeAcctTp>01</PyeAcctTp>
+		<PyeTmnlNo></PyeTmnlNo>
+		<BsnsType></BsnsType>
+		<InOutMd></InOutMd>
+		<NtwPlatShrtNm></NtwPlatShrtNm>
+		<BatchNo>B201804130017</BatchNo>
+		<OrigTranSeqNo></OrigTranSeqNo>
+		<OrigTxnAmt />
+		<SysBsnsRetCd>00000000RB622021</SysBsnsRetCd>
+		<EPCCTranSeqNo></EPCCTranSeqNo>
+		<OrigTranTp></OrigTranTp>
+		<MrchCnt />
+		<MrchShrtNm1 />
+		<MrchShrtNm2 />
+		<MrchShrtNm3 />
+		<MrchShrtNm4 />
+		<MrchNo1 />
+		<MrchNo2 />
+		<MrchNo3 />
+		<MrchNo4 />
+		<MrchTp1 />
+		<MrchTp2 />
+		<MrchTp3 />
+		<MrchTp4 />
+		<IndsClsfTp1 />
+		<IndsClsfTp2 />
+		<IndsClsfTp3 />
+		<IndsClsfTp4 />
+		<PrdcInf1 />
+		<PrdcInf2 />
+		<PrdcInf3 />
+		<PrdcInf4 />
+		<IMEI />
+		<IMSI />
+		<ICCID />
+		<WIFIMac />
+		<Longitude />
+		<Latitude />
+		<EPCCCntyCd></EPCCCntyCd>
+		<EPCCRgnCd></EPCCRgnCd>
+	</BODY>
+</service>

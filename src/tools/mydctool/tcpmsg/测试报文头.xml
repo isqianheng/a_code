@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+    <SYS_HEAD>
+        <SvcId>040030006</SvcId>
+        <SvcScnId>08</SvcScnId>
+        <CnsmSysId></CnsmSysId>
+        <ChnlType>05</ChnlType>
+        <SrcSysId></SrcSysId>
+        <CnsmSysSeqNo>qianheng1</CnsmSysSeqNo>
+        <SrcSysSeqNo>qianheng1</SrcSysSeqNo>
+        <Mac></Mac>
+        <MacOrgId></MacOrgId>
+        <TranMode></TranMode>
+        <TranDate></TranDate>
+        <TranTime></TranTime>
+        <TmnlNo></TmnlNo>
+        <SrcSySysnlNo></SrcSySysnlNo>
+        <CnsmSysSvrId></CnsmSysSvrId>
+        <SrcSysSvrId></SrcSysSvrId>
+    </SYS_HEAD>
+    <APP_HEAD>
+        <TellerId></TellerId>
+        <BranchId></BranchId>
+        <TlrPswd></TlrPswd>
+        <TlrLvl></TlrLvl>
+        <TlrType></TlrType>
+        <ChkFlag></ChkFlag>
+        <AuthFlag></AuthFlag>
+        <AuthTlrId></AuthTlrId>
+        <AuthTlrPswd></AuthTlrPswd>
+        <AuthBrchId></AuthBrchId>
+    </APP_HEAD>
+    <BODY>
+    </BODY>
+</service>

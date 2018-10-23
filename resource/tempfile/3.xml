@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+	<SYS_HEAD>
+		<SvcId>040020011</SvcId>
+		<SvcScnId>10</SvcScnId>
+		<CnsmSysId>48</CnsmSysId>
+		<ChnlType>IB</ChnlType>
+		<SrcSysId>0017</SrcSysId>
+		<CnsmSysSeqNo>10010012018080317195410004720</CnsmSysSeqNo>
+		<SrcSysSeqNo></SrcSysSeqNo>
+		<Mac></Mac>
+		<MacOrgId></MacOrgId>
+		<TranMode>ONLINE</TranMode>
+		<TranDate>20180803</TranDate>
+		<TranTime>171954</TranTime>
+		<TmnlNo></TmnlNo>
+		<SrcSySysnlNo></SrcSySysnlNo>
+		<CnsmSysSvrId></CnsmSysSvrId>
+		<SrcSysSvrId></SrcSysSvrId>
+	</SYS_HEAD>
+	<APP_HEAD>
+		<TellerId>00199948</TellerId>
+		<BranchId>0019901</BranchId>
+		<TlrPswd></TlrPswd>
+		<TlrLvl></TlrLvl>
+		<TlrType></TlrType>
+		<ChkFlag></ChkFlag>
+		<AuthFlag></AuthFlag>
+		<AuthTlrId></AuthTlrId>
+		<AuthTlrPswd></AuthTlrPswd>
+		<AuthBrchId></AuthBrchId>
+	</APP_HEAD>
+	<BODY>
+		<CardNo>6251916006062129</CardNo>
+		<OprtType>0</OprtType>
+		<CrdtPlnNo>1001</CrdtPlnNo>
+		<InstlPrdNum>12</InstlPrdNum>
+		<InstlAmt>200000</InstlAmt>
+		<CcyType>CNY</CcyType>
+		<ApplyAmtRt></ApplyAmtRt>
+		<InstlDrtFee></InstlDrtFee>
+		<FrcHndChrgRt></FrcHndChrgRt>
+		<InstlApplyId></InstlApplyId>
+		<RsrvFld></RsrvFld>
+	</BODY>
+</service>

@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<service>
+	<SYS_HEAD>
+		<SvcId>040020011</SvcId>
+		<SvcScnId>10</SvcScnId>
+		<CnsmSysId>48</CnsmSysId>
+		<SrcSysId>0017</SrcSysId>
+		<CnsmSysSeqNo>10010012018080317195410004720</CnsmSysSeqNo>
+		<TranMode>ONLINE</TranMode>
+		<TranDate>20370516</TranDate>
+		<TranTime>171954</TranTime>
+		<array>
+			<RetInf>
+				<RetCode>000000000000</RetCode>
+				<RetMsg>交易成功</RetMsg>
+			</RetInf>
+		</array>
+	</SYS_HEAD>
+	<APP_HEAD>
+		<TellerId>001999</TellerId>
+		<BranchId>001990</BranchId>
+	</APP_HEAD>
+	<BODY>
+		<CardNo>6251916006062129</CardNo>
+		<OprtType>0</OprtType>
+		<CrdtPlnNo>1001</CrdtPlnNo>
+		<InstlPrdNum>012</InstlPrdNum>
+		<InstlAmt>000000200000</InstlAmt>
+		<CcyType>156</CcyType>
+		<MonRpymtAmt>000000016667</MonRpymtAmt>
+		<HndChrg>000000012480</HndChrg>
+		<RemnStmtBal>000000200000</RemnStmtBal>
+		<NotRpymtCnsmBal>00000000000</NotRpymtCnsmBal>
+		<NotRpymtEncshBal>00000000000</NotRpymtEncshBal>
+		<NotRpymtStmtBal>00000000000</NotRpymtStmtBal>
+		<ApplyAmt>00000000000</ApplyAmt>
+		<InstlDrtFee>00000000000</InstlDrtFee>
+		<InstlApplyId>70516185760</InstlApplyId>
+		<FrcHndChrgRt>0000</FrcHndChrgRt>
+	</BODY>
+</service>
